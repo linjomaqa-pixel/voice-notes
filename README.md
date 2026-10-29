@@ -7,11 +7,9 @@
 
 ## 安裝（最省事：把下面這段貼給你的 Claude Code）
 
-> ⚠️ 先把下面的 `<你的GitHub帳號>` 換成實際網址（例如 `https://github.com/xxx/voice-notes`）。
-
 ```
 請幫我安裝這個工具：
-把 https://github.com/<你的GitHub帳號>/voice-notes clone 到我家目錄，
+把 https://github.com/linjomaqa-pixel/voice-notes clone 到我家目錄，
 然後執行裡面的安裝腳本（Windows 跑 install.ps1、Mac 跑 install.command），裝完提醒我重開 session。
 ```
 
