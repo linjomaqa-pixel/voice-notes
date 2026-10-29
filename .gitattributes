@@ -1,0 +1,7 @@
+# 全部文字檔用 LF，避免 Windows 的 CRLF 讓 Mac 的 install.command / bash 腳本壞掉。
+* text=auto eol=lf
+*.command text eol=lf
+*.sh      text eol=lf
+*.py      text eol=lf
+*.ps1     text eol=lf
+*.md      text eol=lf

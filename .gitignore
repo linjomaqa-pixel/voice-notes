@@ -1,0 +1,20 @@
+# Python venv（本機引擎，各機器自己裝，不進 repo）
+.venv/
+__pycache__/
+*.pyc
+
+# 🔴 錄音 / 逐字稿 / 整理文件 絕不進這個公開 repo（個人資料、可能含公司機密）
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.flac
+*.aac
+*.ogg
+*.opus
+*-整理.md
+*-整理.pdf
+
+# 模型快取（若有人改放這）
+models/
+*.bin.cache

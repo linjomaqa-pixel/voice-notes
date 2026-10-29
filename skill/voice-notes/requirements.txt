@@ -1,0 +1,4 @@
+faster-whisper
+# av 14+ 移除了 faster-whisper 1.2.x 仍在用的 av.open(metadata_errors=...) 參數，
+# faster-whisper 只宣告 av>=11 無上限，會抓到過新的 av 而壞掉 → 這裡釘在相容區間。
+av>=11,<14
